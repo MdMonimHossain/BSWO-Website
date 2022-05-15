@@ -3,7 +3,7 @@
 ## This is a website for a non-profit organization called 'Banaful Social Welfare Organization (BSWO)'
 
 ### Requirements:
-- Languages: HTML, CSS, PHP, Javascript
+- Languages: HTML, CSS, PHP, JavaScript
 - Front-end framework: Bootstrap
 - Database: MySQL
 - Software Tools: Visual Studio Code, XAMPP
