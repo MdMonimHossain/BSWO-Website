@@ -1,0 +1,60 @@
+.navbar {
+  padding: 0rem 0rem;
+}
+
+.navbar-brand {
+  padding: 0rem 0rem;
+}
+
+.navbar-nav .nav-item .nav-link {
+  padding: 0.2rem 1rem;
+}
+
+.nav-item.active a {
+  font-weight:bold;
+  color: #990000;
+}
+
+.navbar-nav a{
+  color: #0da026;
+  font-weight:bold;
+}
+
+.navbar-nav a:hover {
+  color: #990000;
+}
+
+.navbar-toggler {
+  background: #990000;
+  padding: 10px 6px;
+}
+
+.navbar-toggler span {
+  display: block;
+  width: 25px;
+  height: 2px;
+  background: #ffffff;
+}
+
+.navbar-toggler span + span {
+  margin-top: 5px;
+}
+
+.btn:hover {
+  background-color: #0da026;
+}
+
+table{
+  border-collapse: separate;
+  border-spacing: 10px 10px;
+  border: #0da026 solid 1px;
+}
+
+.pointer {
+  cursor: pointer;
+  font-weight: bold;
+}
+
+.pointer:hover {
+    color: #990000;
+}
